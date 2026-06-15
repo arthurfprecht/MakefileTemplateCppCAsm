@@ -12,7 +12,7 @@ This is a simple makefile template for C++, C or Assembly in Windows/Linux. To u
 - run: executes the built target
 
 ## Recommended folder structure
-
+<pre>
 project_folder  
 |  
 |---- build (will be created automatically, or deleted with clean)  
@@ -26,3 +26,4 @@ project_folder
 |---- include  
 |  
 |---- lib  
+</pre>
