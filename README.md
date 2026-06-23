@@ -22,6 +22,9 @@ project_folder
 |      |---- obj (other .o will be here, folder is created automatically)  
 |  
 |---- src  
+|      |---- subfolder_1
+|      |  
+|      |---- subfolder_2
 |  
 |---- include  
 |  
